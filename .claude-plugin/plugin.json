@@ -1,0 +1,9 @@
+{
+  "name": "obcmd",
+  "version": "0.1.0",
+  "description": "Configure the OB Commander file manager by chatting: colors, themes, fonts, columns, shortcuts, toolbar, menus, preview and search in config.toml.",
+  "author": { "name": "Obroom", "url": "https://obcommander.com" },
+  "homepage": "https://obcommander.com",
+  "repository": "https://github.com/kookob/obcommander",
+  "keywords": ["obcmd", "ob-commander", "file-manager", "config"]
+}

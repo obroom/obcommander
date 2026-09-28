@@ -1,0 +1,151 @@
+OB Commander End User License Agreement
+
+Copyright (c) 2026 Obroom. All rights reserved.
+
+This agreement ("Agreement") governs OB Commander ("the Software"), distributed as binaries
+through https://obcommander.com and https://github.com/kookob/obcommander. The Software is
+proprietary and is licensed, not sold. Its source code is not published.
+
+By downloading, installing or using the Software you accept this Agreement. If you do not
+accept it, do not use the Software.
+
+1. Definitions
+
+   "Non-commercial Use" means use by an individual, on devices that individual owns or
+   controls, for personal purposes that have no connection to any business, employment,
+   profession or organisation and that generate no income, directly or indirectly.
+   Personal study by a student is Non-commercial Use.
+
+   "Commercial Use" means any use that is not Non-commercial Use, including use:
+   (a) by or on behalf of any company, organisation, government body, educational
+       institution or non-profit organisation;
+   (b) in the course of employment, freelance, self-employed or professional work,
+       including such work done at home or on personal devices; or
+   (c) that directly or indirectly supports earning income.
+
+   If it is unclear whether a use is Non-commercial Use, it is Commercial Use.
+
+   "Pro Features" means the features we identify as such in the Software or on our website,
+   including remote SFTP. We decide which features are Pro Features.
+
+   "Licence" means a paid licence purchased from us or our authorised reseller and
+   identified by a licence key.
+
+2. Free use
+
+   Subject to this Agreement, we grant you a personal, non-exclusive, non-transferable,
+   revocable licence to install and use the free features of the Software for
+   Non-commercial Use, and for evaluation under section 3(f).
+
+3. Paid Licences
+
+   (a) Pro Features require a Licence, including for Non-commercial Use.
+   (b) Commercial Use requires a Licence for every person who uses the Software,
+       whichever features are used.
+   (c) A Licence is issued to one named person (the email address in the licence key) and
+       may be used only by that person.
+   (d) The edition, number of users, number of computers and the versions and updates
+       covered by a Licence are as stated at the time of purchase.
+   (e) A Licence may not be transferred without our prior written consent.
+   (f) Evaluation. You may evaluate the free features for Commercial Use free of charge
+       for 30 days from your first use, to decide whether to buy. After that, continued
+       Commercial Use requires a Licence for every user.
+   (g) Pro trial. Where the Software offers a free trial of Pro Features, you may use them
+       until the trial ends as shown in the Software. Each computer may have one trial.
+
+4. Licence keys
+
+   Activating a licence key or starting a trial connects once to our licence server, which
+   binds the activation to that computer; after that the Software checks the licence
+   offline. The purchase email address is encoded in the licence and shown in the Software.
+   You may not share, publish, sell, or let more people or computers use a licence key
+   than the Licence covers. We may block licence keys that have been shared,
+   published, obtained fraudulently or refunded, in future versions of the Software,
+   without refund.
+
+5. Distribution
+
+   You may not redistribute, sell, rent, lend, sublicense, host or bundle the Software, or
+   offer it for download, without our prior written permission. You may share links to the
+   official download sources named above.
+
+6. Restrictions
+
+   You may not:
+   - reverse engineer, decompile, disassemble or modify the Software, except to the extent
+     applicable law expressly permits this despite this restriction;
+   - circumvent, disable or interfere with licence checks, activation or trial limits, or
+     feature restrictions;
+   - remove or alter copyright, licence or other notices;
+   - use the name "OB Commander" or its logo without our permission; or
+   - use the Software for any unlawful purpose.
+
+7. Updates, support and changes
+
+   Licence holders receive support by email at support@obcommander.com. The updates
+   included with a Licence are as stated at the time of purchase.
+
+   We may add, change or remove features in future versions, including moving features
+   between the free edition and Pro Features. A version you have installed is not changed
+   until you update it. Online services used by the Software, such as the update check and
+   the licence server, may change or be discontinued.
+
+8. Your files
+
+   The Software performs real operations on real files. Some operations cannot be undone,
+   among them deleting over SFTP. You are responsible for the operations you perform and
+   for keeping backups. Custom commands you configure run external programs with your own
+   privileges.
+
+9. No warranty; limitation of liability
+
+   The Software is provided "as is", without warranty of any kind, express or implied,
+   including merchantability, fitness for a particular purpose and non-infringement.
+   To the maximum extent permitted by law, we are not liable for any indirect, incidental,
+   special or consequential damages, or for loss of data, profits or business, however
+   caused. Our total liability for any claim is limited to the amount you paid us for the
+   Licence in the twelve months before the claim, or zero if you paid nothing.
+
+10. Termination
+
+   This Agreement and any Licence end automatically if you breach this Agreement, without
+   refund. You must then stop using the Software and delete all copies. Sections 4 to 11
+   and 13 survive termination.
+
+11. Repository contents and contributions
+
+   The documentation, agent skill files and language files published in the repository
+   https://github.com/kookob/obcommander may be copied and modified only for using,
+   configuring or translating OB Commander.
+
+   By submitting a contribution to us (for example a translation, documentation or a
+   suggested change), you grant us a perpetual, worldwide, irrevocable, royalty-free right
+   to use, modify, distribute and sublicense it as part of or together with OB Commander,
+   including in paid editions, and you confirm that you have the right to grant it.
+
+12. Changes to this Agreement
+
+   We may change this Agreement. Each release includes the Agreement that applies to it.
+   Continuing to use an updated version means you accept its Agreement.
+
+13. Governing law
+
+   This Agreement is governed by the laws of the place where the licensor is established,
+   and its courts have exclusive jurisdiction over any dispute arising from it.
+
+14. General
+
+   (a) No waiver. If we do not enforce a provision, or make an exception for someone, we do
+       not give up the right to enforce it later or against anyone else.
+   (b) Exceptions. We may, at our discretion, offer free or discounted Licences or other
+       exceptions to particular users or groups (for example students, teachers or
+       non-profit organisations). Doing so creates no obligation towards anyone else.
+   (c) Prices. We may change prices and editions at any time. This does not affect Licences
+       already purchased.
+   (d) Transfer. We may transfer this Agreement and our rights under it, for example to a
+       successor of our business. You may not transfer yours without our written consent.
+   (e) If any provision is held unenforceable, the rest remains in effect. Headings are for
+       convenience only. This Agreement is the entire agreement between you and us about
+       the Software, unless a Licence purchase states otherwise.
+
+   Contact: support@obcommander.com

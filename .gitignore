@@ -1,0 +1,44 @@
+# 系统 / 编辑器生成的
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 安装包只挂在 GitHub Releases 上, 不进 git (发版脚本在本地打包的产物都在 dist/)
+/dist/
+*.exe
+*.msi
+*.zip
+*.7z
+*.dmg
+*.pkg
+*.AppImage
+*.deb
+*.rpm
+*.tar.gz
+
+# 密钥 / 证书 / 凭据: 签名私钥永远不进任何仓库 (这个仓库是公开的)
+*.hex
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+
+# 临时文件
+*.tmp
+*.log
+
+# 开发 / AI 助手用的内部文件: 只在私有主仓库里, 公开仓库一律不收
+# (.claude-plugin/ 和 skills/ 不在此列 —— 那是给用户装的配置 skill, 是产品的一部分)
+Project.md
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.claude/
+.codex/
+.cursor/
+.codegraph/

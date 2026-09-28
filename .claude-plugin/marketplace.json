@@ -1,0 +1,11 @@
+{
+  "name": "obcommander",
+  "owner": { "name": "Obroom", "url": "https://obcommander.com" },
+  "plugins": [
+    {
+      "name": "obcmd",
+      "source": "./",
+      "description": "Configure the OB Commander file manager by chatting (config.toml)."
+    }
+  ]
+}
