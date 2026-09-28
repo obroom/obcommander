@@ -147,6 +147,8 @@ uptodate = "已是最新版本"
 uptodate_body = "目前版本 {cur} 就是最新版本。"
 failed = "無法檢查更新"
 failed_body = "無法連線到伺服器。請檢查網路連線, 或稍後再試。"
+critical = "目前版本有嚴重問題，請盡快更新"
+critical_body = "{cur} 版有已知的嚴重問題，請更新到 {ver}。\n更新前功能照常可用，每次啟動都會提醒。"
 beta_over = "公開測試已結束"
 beta_over_body = "這個測試版已經過期。\n\n所有功能都還能用, 但不會再有更新了 —— 請下載正式版。測試期間提供過意見回饋的使用者可以免費取得授權。"
 
@@ -194,9 +196,6 @@ deactivate_confirm = "要在這台電腦上取消啟用嗎?"
 deactivate_body = "取消後這台電腦會回到免費版, 空出的啟用次數可用於另一台電腦。\n\n之後想在這台電腦上繼續使用專業版, 重新輸入授權碼即可。"
 deactivated = "已取消啟用"
 deactivated_body = "這台電腦已回到免費版, 授權碼現在可以在其他電腦上啟用。"
-# the exe's code signature doesn't match (modified / incomplete download)
-tampered = "程式檔案已遭修改"
-tampered_body = "這個 obcmd.exe 與官方發行版本不一致 (可能下載不完整, 或被其他程式修改過), 專業版功能已停用, 基本功能不受影響。\n\n請從官方網站重新下載。"
 
 # ── Pro features (shown only when an unlicensed user reaches for one) ──
 [pro]

@@ -149,6 +149,8 @@ uptodate = "Vous êtes à jour"
 uptodate_body = "La version {cur} est la plus récente."
 failed = "Impossible de rechercher des mises à jour"
 failed_body = "Le serveur est injoignable. Vérifiez votre connexion et réessayez plus tard."
+critical = "Cette version présente un problème grave — veuillez mettre à jour"
+critical_body = "La version {cur} présente un problème grave connu. Veuillez passer à la version {ver}.\nEn attendant, tout continue de fonctionner ; ce rappel s’affiche à chaque démarrage."
 beta_over = "Cette bêta est terminée"
 beta_over_body = "Cette version bêta a expiré.\n\nTout fonctionne encore, mais elle ne recevra plus de mises à jour — téléchargez la version finale. Les bêta-testeurs qui ont envoyé des commentaires reçoivent une licence gratuite."
 
@@ -196,9 +198,6 @@ deactivate_confirm = "Désactiver sur cet ordinateur ?"
 deactivate_body = "Cet ordinateur repasse à la version gratuite et l'activation devient disponible pour un autre ordinateur.\n\nPour utiliser de nouveau Pro ici plus tard, saisissez simplement à nouveau la clé de licence."
 deactivated = "Désactivé"
 deactivated_body = "Cet ordinateur est repassé à la version gratuite. La clé de licence peut maintenant être activée sur un autre ordinateur."
-# the exe's code signature doesn't match (modified / incomplete download)
-tampered = "Le fichier du programme a été modifié"
-tampered_body = "Ce obcmd.exe diffère de la version officielle (peut-être un téléchargement incomplet, ou un autre programme l'a modifié). Les fonctionnalités Pro sont désactivées ; les fonctionnalités de base ne sont pas affectées.\n\nVeuillez le télécharger à nouveau depuis le site web."
 
 # ── Pro features (shown only when an unlicensed user reaches for one) ──
 [pro]
