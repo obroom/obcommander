@@ -19,7 +19,21 @@ By default OB Commander follows your Windows display language.
 | `ru.toml` | Русский |
 | `ja.toml` | 日本語 |
 
-More languages will be added to this folder as separate downloads.
+## Download
+
+These aren't built in; install them as described below.
+
+| File | Language |
+|---|---|
+| `ko.toml` | 한국어 |
+| `it.toml` | Italiano |
+| `pl.toml` | Polski |
+| `tr.toml` | Türkçe |
+| `nl.toml` | Nederlands |
+| `uk.toml` | Українська |
+| `cs.toml` | Čeština |
+
+More languages are on the way.
 
 ## Installing a language file
 
@@ -39,7 +53,9 @@ Pull requests are welcome.
 
 ## 中文
 
-**内置语言**：上表 9 门已经在 `obcmd.exe` 里，不用下载，在「配置 > 语言」里选。默认跟随 Windows 的显示语言。其他语言以后会放在这个文件夹里单独下载。
+**内置语言**：第一张表的 9 门已经在 `obcmd.exe` 里，不用下载，在「配置 > 语言」里选。默认跟随 Windows 的显示语言。
+
+**下载语言**：第二张表的 7 门（한국어、Italiano、Polski、Türkçe、Nederlands、Українська、Čeština）按下面的步骤装，更多语言陆续加入。
 
 **安装语言文件**：
 1. 打开这里的 `.toml` 文件，点 **Download raw file** 下载。
