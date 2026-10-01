@@ -76,7 +76,7 @@ can be deleted.
 The UI text. The built-in languages are embedded in the exe; files in the `lang/` folder next to it are added at
 startup and can add languages or override built-in text.
 
-- **Add a language**: start from `en.toml` in the `lang/` folder of https://github.com/kookob/obcommander (the
+- **Add a language**: start from `en.toml` in the `lang/` folder of https://github.com/obroom/obcommander (the
   built-in languages are published there), rename it to a language tag (e.g. `ja-JP.toml`), translate the right-hand
   sides, put it in the `lang/` folder next to obcmd.exe, restart. Its first line `name = "…"` is the name shown in
   **Options > Language (配置 > 语言)**. Missing keys fall back to English. Translations can be contributed there.

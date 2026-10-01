@@ -3,7 +3,7 @@ OB Commander End User License Agreement
 Copyright (c) 2026 Obroom. All rights reserved.
 
 This agreement ("Agreement") governs OB Commander ("the Software"), distributed as binaries
-through https://obcommander.com and https://github.com/kookob/obcommander. The Software is
+through https://obcommander.com and https://github.com/obroom/obcommander. The Software is
 proprietary and is licensed, not sold. Its source code is not published.
 
 By downloading, installing or using the Software you accept this Agreement. If you do not
@@ -115,7 +115,7 @@ accept it, do not use the Software.
 11. Repository contents and contributions
 
    The documentation, agent skill files and language files published in the repository
-   https://github.com/kookob/obcommander may be copied and modified only for using,
+   https://github.com/obroom/obcommander may be copied and modified only for using,
    configuring or translating OB Commander.
 
    By submitting a contribution to us (for example a translation, documentation or a

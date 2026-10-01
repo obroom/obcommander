@@ -11,7 +11,7 @@
 <p align="center">
   <b>English</b> · <a href="README.zh-CN.md">简体中文</a> ·
   <a href="https://obcommander.com">Website</a> ·
-  <a href="https://github.com/kookob/obcommander/releases">Download</a>
+  <a href="https://github.com/obroom/obcommander/releases">Download</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ## Download
 
-Get the latest Windows build from **[Releases](https://github.com/kookob/obcommander/releases)** —
+Get the latest Windows build from **[Releases](https://github.com/obroom/obcommander/releases)** —
 look for tags that start with `win-`.
 
 - Windows 10 / 11, x64. Portable: no installer, nothing written to the registry.
@@ -65,7 +65,7 @@ works in any agent that supports it.
 **Claude Code**
 
 ```
-/plugin marketplace add kookob/obcommander
+/plugin marketplace add obroom/obcommander
 /plugin install obcmd@obcommander
 ```
 
@@ -79,7 +79,7 @@ works in any agent that supports it.
 | Other Agent Skills–compatible tools | see the tool's documentation |
 
 ```powershell
-git clone --depth 1 https://github.com/kookob/obcommander "$env:TEMP\obcommander"
+git clone --depth 1 https://github.com/obroom/obcommander "$env:TEMP\obcommander"
 Copy-Item -Recurse "$env:TEMP\obcommander\skills\obcmd-config" "$HOME\.codex\skills\"
 ```
 
@@ -92,7 +92,7 @@ More languages, how to install them and how to add your own: see [`lang/`](lang)
 
 ## Feedback
 
-Bug reports and feature requests: [Issues](https://github.com/kookob/obcommander/issues).
+Bug reports and feature requests: [Issues](https://github.com/obroom/obcommander/issues).
 Licence questions: [support@obcommander.com](mailto:support@obcommander.com).
 
 This repository holds releases, documentation and agent integrations; the source code is not published here.

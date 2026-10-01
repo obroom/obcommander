@@ -11,7 +11,7 @@
 <p align="center">
   <a href="README.md">English</a> · <b>简体中文</b> ·
   <a href="https://obcommander.com">官网</a> ·
-  <a href="https://github.com/kookob/obcommander/releases">下载</a>
+  <a href="https://github.com/obroom/obcommander/releases">下载</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ## 下载
 
-在 **[Releases](https://github.com/kookob/obcommander/releases)** 下载最新的 Windows 版，
+在 **[Releases](https://github.com/obroom/obcommander/releases)** 下载最新的 Windows 版，
 标签以 `win-` 开头的就是。
 
 - Windows 10 / 11，x64。便携版：不用安装，不写注册表。
@@ -64,7 +64,7 @@
 **Claude Code**
 
 ```
-/plugin marketplace add kookob/obcommander
+/plugin marketplace add obroom/obcommander
 /plugin install obcmd@obcommander
 ```
 
@@ -78,7 +78,7 @@
 | 其他支持 Agent Skills 的工具 | 见各自的文档 |
 
 ```powershell
-git clone --depth 1 https://github.com/kookob/obcommander "$env:TEMP\obcommander"
+git clone --depth 1 https://github.com/obroom/obcommander "$env:TEMP\obcommander"
 Copy-Item -Recurse "$env:TEMP\obcommander\skills\obcmd-config" "$HOME\.codex\skills\"
 ```
 
@@ -91,7 +91,7 @@ MCP 服务在计划中，以后用同样的方式安装。
 
 ## 反馈
 
-问题反馈和功能建议：[Issues](https://github.com/kookob/obcommander/issues)。
+问题反馈和功能建议：[Issues](https://github.com/obroom/obcommander/issues)。
 授权相关：[support@obcommander.com](mailto:support@obcommander.com)。
 
 这个仓库只放发布版本、文档和 AI 工具集成，不公开源代码。
